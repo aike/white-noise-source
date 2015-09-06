@@ -1,0 +1,25 @@
+{
+  "name": "@aike/white-noise-source",
+  "description": "WhiteNoiseSourceNode for Web Audio API",
+  "version": "0.0.0",
+  "author": "aike",
+  "bugs": {
+    "url": "https://github.com/aike/white-noise-source/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/aike/white-noise-source/",
+  "keywords": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aike/white-noise-source.git"
+  },
+  "scripts": {}
+}
