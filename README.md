@@ -11,7 +11,7 @@ Node.js
 
 ```sh
 npm install @aike/white-noise-source
-\```
+```
 
 ## LICENSE
 MIT
