@@ -1,0 +1,7 @@
+language: node_js  # node.js のテストをする
+sudo: false        # テスト環境はコンテナベースで (速い)
+node_js:           # テストする node.js のバージョン
+  - "0.12"
+script:            # テストとして実行するスクリプト
+  - npm run travis
+
