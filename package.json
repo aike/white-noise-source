@@ -1,12 +1,15 @@
 {
   "name": "@aike/white-noise-source",
   "description": "WhiteNoiseSourceNode for Web Audio API",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "aike",
   "bugs": {
     "url": "https://github.com/aike/white-noise-source/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@mohayonao/web-audio-utils": "^0.5.1",
+    "web-audio-test-api": "^0.3.6"
+  },
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.1",
